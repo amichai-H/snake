@@ -1,5 +1,5 @@
 # Snake Game
-This game is te regular snape but in java.
+This game is the regular snape but in java.
 ### To run the game:
 - you need java version 11+.
 - download the jar file [here](https://github.com/amichai-H/snake/raw/main/artifacts/snake_jar/snake.jar).
