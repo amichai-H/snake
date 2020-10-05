@@ -14,6 +14,6 @@ This game is the regular snape but in java.
 
 - Be careful! Running off the map or into your own body will end the game.
 
-#### All the code is int the src directory.
+#### All the code is in the src.
 - - BTW : Open source I used for GUI : [StdDraw](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html). 
 ## have fun!!
